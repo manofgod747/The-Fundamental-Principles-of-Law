@@ -30,7 +30,7 @@ Life wants to be free.
 It is forbidden to trespass on others freedom.
 
 § 6
-Trespassings are punishable by isolation and rehabilitation, or exile.
+Trespassings are punishable by isolation and rehabilitation, or exile, or death.
 
 § 7
 Decisions are made on the basis of factual evidence and logical inference.
