@@ -21,7 +21,7 @@ Life wants to be free.
 It is forbidden to trespass on others freedom.
 
 § 3
-Trespassings are punishable by isolation and rehabilitation, or exile, or death.
+Trespassings are punishable by isolation and rehabilitation, exile, or death.
 
 § 4
 Everyone is entitled to a fair trial.
