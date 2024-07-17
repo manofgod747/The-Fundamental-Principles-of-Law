@@ -15,16 +15,16 @@ The best law is minimal. More text is more corruption.
 
 ## The Law
 § 1
-Everyone is entitled to a fair trial.
-
-§ 2
-Justice is served when all parties agree to fair treatment.
-
-§ 3
 Life wants to be free.
 
-§ 4
+§ 2
 It is forbidden to trespass on others freedom.
+
+§ 3
+Everyone is entitled to a fair trial.
+
+§ 4
+Justice is served when all parties agree to fair treatment.
 
 § 5
 Trespassings are punishable by isolation and rehabilitation, or exile, or death.
