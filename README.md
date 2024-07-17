@@ -15,25 +15,23 @@ The best law is minimal. More text is more corruption.
 
 ## The Law
 § 1
-The objective is to serve justice between individuals and groups of individuals.
+Everyone is entitled to a fair trial.
 
-§ 2 
-Everyone is entitled to a trial.
-
-§ 3
+§ 2
 Justice is served when all parties agree to fair treatment.
 
-§ 4
+§ 3
 Life wants to be free.
 
-§ 5
+§ 4
 It is forbidden to trespass on others freedom.
 
-§ 6
+§ 5
 Trespassings are punishable by isolation and rehabilitation, or exile, or death.
 
-§ 8
+§ 6
 Hearings are public.
 
-§ 9
+§ 7
 A judge is candidate by minority report and elected by a clear majority. A judge is unseatet by minority report.
+
