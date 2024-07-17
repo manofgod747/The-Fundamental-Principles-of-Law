@@ -34,5 +34,5 @@ Justice is served when all parties agree to fair treatment
 Hearings are public
 
 § 7
-A judge is candidated and unseated by minority report and elected by clear majority
+A judge is made candidate or unseated by minority report, and elected by clear majority
 
