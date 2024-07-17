@@ -6,7 +6,7 @@ Justice is the objective of Law.
 
 Freedom is a given.
 
-The best law is short and easy to understand. More text is more corruption.
+The best law is minimal. More text is more corruption.
 
 ## Axioms of Law
 1. Justice
@@ -18,10 +18,10 @@ The best law is short and easy to understand. More text is more corruption.
 The objective is to serve justice between individuals and groups of individuals.
 
 § 2 
-Everyone is entitled to a fair and equal trial in chronological order.
+Everyone is entitled to a fair, and equal trial.
 
 § 3
-Justice has been served when all parties agree to fair treatment.
+Justice is served when all parties agree to fair treatment.
 
 § 4
 Life wants to be free.
@@ -32,14 +32,8 @@ It is forbidden to trespass on others freedom.
 § 6
 Trespassings are punishable by isolation and rehabilitation, or exile, or death.
 
-§ 7
-Decisions are made on the basis of factual evidence and logical inference.
-
 § 8
-All decisions are made public for public scrutiny.
+Hearings are public.
 
 § 9
-The public can vote to dethrone a judge. A minority vote– one tenth –is required to dethrone.
-
-§ 10
-A new Judge is selected by most favorable votes.
+A judge is candidate by minority report and elected by a clear majority. A judge is unseatet by minority report.
