@@ -21,13 +21,13 @@ Life wants to be free.
 It is forbidden to trespass on others freedom.
 
 § 3
-Everyone is entitled to a fair trial.
+Trespassings are punishable by isolation and rehabilitation, or exile, or death.
 
 § 4
-Justice is served when all parties agree to fair treatment.
+Everyone is entitled to a fair trial.
 
 § 5
-Trespassings are punishable by isolation and rehabilitation, or exile, or death.
+Justice is served when all parties agree to fair treatment.
 
 § 6
 Hearings are public.
