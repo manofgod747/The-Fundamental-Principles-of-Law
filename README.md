@@ -12,7 +12,7 @@ The best law is minimal. More text -> more interpretation -> more corruption
 ## Axioms of Law
 1. Justice
 2. Freedom
-3. Minimal text
+3. Minimize text
 
 ## The Law
 § 1
