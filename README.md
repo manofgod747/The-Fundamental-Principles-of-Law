@@ -6,7 +6,7 @@ Justice is the objective of Law.
 
 Freedom is a given.
 
-The best law is minimal. More text is more corruption.
+The best law is minimal. More text, more interpretation, more corruption.
 
 ## Axioms of Law
 1. Justice
@@ -15,23 +15,23 @@ The best law is minimal. More text is more corruption.
 
 ## The Law
 § 1
-Life wants to be free.
+Life wants to be free
 
 § 2
-It is forbidden to trespass on others freedom.
+It is forbidden to trespass on others freedom
 
 § 3
-Trespassings are punishable by isolation and rehabilitation, exile, or death.
+Trespassings are punishable by isolation and rehabilitation, exile, or death
 
 § 4
-Everyone is entitled to a fair trial.
+Everyone is entitled to a fair trial
 
 § 5
-Justice is served when all parties agree to fair treatment.
+Justice is served when all parties agree to fair treatment
 
 § 6
-Hearings are public.
+Hearings are public
 
 § 7
-A judge is candidate by minority report and elected by a clear majority. A judge is unseatet by minority report.
+A judge is candidated and unseated by minority report and elected by clear majority
 
