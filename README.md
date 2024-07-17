@@ -18,7 +18,7 @@ The best law is minimal. More text is more corruption.
 The objective is to serve justice between individuals and groups of individuals.
 
 § 2 
-Everyone is entitled to a fair, and equal trial.
+Everyone is entitled to a trial.
 
 § 3
 Justice is served when all parties agree to fair treatment.
