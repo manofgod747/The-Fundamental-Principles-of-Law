@@ -1,4 +1,5 @@
 # The Fundamental Principles of Law
+### Man of God
 
 This document serves as a candidate to national law that upholds the principles of justice, freedom, and minimal text.
 
@@ -21,7 +22,7 @@ Life wants to be free
 It is forbidden to trespass on others freedom
 
 § 3
-Trespassings are punishable by isolation and rehabilitation, exile, or death
+Tresspassings are punishable by isolation and rehabilitation, exile, or death
 
 § 4
 Everyone is entitled to a fair trial
