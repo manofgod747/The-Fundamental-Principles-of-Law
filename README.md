@@ -17,7 +17,7 @@ This document serves as a candidate to national law that upholds the principles 
 ## Axioms of Law
 1. Justice
 2. Freedom
-3. Minimize text
+3. Minimality
 
 ## The Law
 § 1
