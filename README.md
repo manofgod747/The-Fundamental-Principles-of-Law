@@ -5,9 +5,13 @@ This document serves as a candidate to national law that upholds the principles 
 
 Justice is the objective of Law
 
-Freedom is a given
+Freedom is given
 
-The best law is minimal. More text -> more interpretation -> more corruption
+* The best law is minimal
+* More text adds more interpretation
+* Rules are consentual or not 
+* Consent is only possible through understanding
+* Understanding requires simplicity
 
 ## Axioms of Law
 1. Justice
