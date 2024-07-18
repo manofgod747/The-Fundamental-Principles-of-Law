@@ -1,5 +1,5 @@
 # The Fundamental Principles of Law
-### Man of God
+### Sason
 
 This document serves as a candidate to national law that upholds the principles of justice, freedom, and minimality
 
@@ -14,12 +14,12 @@ This document serves as a candidate to national law that upholds the principles 
 * Understanding requires simplicity
 * Minimal is simple
 
-## Axioms of Law
+## Principles of Law
 1. Justice
 2. Freedom
 3. Minimality
 
-## The Law
+## Constitution
 § 1
 Life wants to be free
 
@@ -27,7 +27,7 @@ Life wants to be free
 It is forbidden to trespass on others freedom
 
 § 3
-Trespassing on others freedom is punishable by isolation and rehabilitation, exile, or death
+Trespassing on others freedom is punishable by isolation and rehabilitation, exile, or death.
 
 § 4
 Everyone is entitled to a fair trial
@@ -40,4 +40,10 @@ Hearings are public
 
 § 7
 A judge is made candidate or unseated by minority report, and elected by clear majority
+
+## Specification
+§1
+Intoxicating substances may only be used in prescense of consentual adults. Everything else is considered trespassing on freedom.
+
+
 
