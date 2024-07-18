@@ -1,17 +1,18 @@
 # The Fundamental Principles of Law
 ### Man of God
 
-This document serves as a candidate to national law that upholds the principles of justice, freedom, and minimal text
+This document serves as a candidate to national law that upholds the principles of justice, freedom, and minimality
 
-Justice is the objective of Law
+**Justice** is the objective of Law
 
-Freedom is given
+**Freedom** is given
 
-* The best law is minimal
-* More text adds more interpretation
-* Rules are consentual or not 
+**Minimality**
+* Minimal text, minimal interpretation
+* Rule of law is consentual or not 
 * Consent is only possible through understanding
 * Understanding requires simplicity
+* Minimal is simple
 
 ## Axioms of Law
 1. Justice
