@@ -39,11 +39,11 @@ Justice is served when all parties agree to fair treatment
 Hearings are public
 
 § 7
-A judge is made candidate or unseated by minority report, and elected by clear majority
+A judge is made candidate or unseated by minority report and elected by clear majority
 
 ## Specification
 §1
-Intoxicating substances may only be used in prescense of consentual adults. Everything else is considered trespassing on freedom.
+Intoxication is only approproate in prescense of consentual adults
 
 
 
