@@ -5,8 +5,6 @@ This document serves as a candidate to national law that upholds the principles 
 ## Glossary
 **Man** - All living human beings. Man, woman, or child.
 
-**Conception** - When the sperm and egg join together.
-
 ## Principles of Law
 1. Justice
 3. Freedom
@@ -38,7 +36,7 @@ Law gives rights, not prohibitions. Prohibitions are implied by the negation of 
 Life is free
 
 § 2 
-Life begins at conception 
+Life begins at conception, when the sperm and egg join together.
 
 § 3
 Everyone is entitled to a fair trial
