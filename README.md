@@ -95,7 +95,7 @@ Children inherit equal parts of the land of his ancestors from birth
 § 4 Death
 
 ## Appendix
-Life is sacred. The soul feels independent of bodily development. Therefore abortions are considered premeditated murder.
+Life is sacred. The soul lives and feels independent of bodily development. Therefore abortions are considered premeditated murder.
 
 To protect life it is necessary to acknowledge death. 
 * Man has the right to choose death.
