@@ -97,5 +97,7 @@ Children inherit equal parts of the land of his ancestors from birth
 ## Appendix
 Life is sacred. The soul feels independent of bodily development. Therefore abortions are considered premeditated murder.
 
-To protect life it is necessary to acknowledge death. Man has the right to choose death. Death is a necessary punishment for those who do not respect the right to free life, when rehabilitation is impossible, and exile is insufficient. 
+To protect life it is necessary to acknowledge death. 
+* Man has the right to choose death.
+* Death is a necessary punishment for those who do not respect the right to free life, when rehabilitation is impossible, and exile is insufficient. 
 
