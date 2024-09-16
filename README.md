@@ -80,3 +80,6 @@ Those who cannot provide consent...
 
 § 4 Death
 
+## Appendix
+To protect life it is necessary to acknowledge death. Man has the right to choose death. Death is a necessary punishment for those who do not respect the right to free life when rehabilitation is impossible and exile is insufficient. 
+
