@@ -16,6 +16,9 @@ This document serves as a candidate to national law that upholds the principles 
 ### Justice - The objective of Law
 Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
 
+### Equality
+Everyone is equal under the rule of law. Law does not define special groups or interests. 
+
 ### Freedom - Is a given
 Man has the right to live free from coercion.
 
@@ -67,7 +70,7 @@ Animals are afforded the same rights as men
 Those who cannot provide consent...
 
 ## Crime
-§ 1 Trespassing on others freedom by means of coercion.
+§ 1 Trespassing on others freedom by means of coercion
 
 § 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
 
@@ -81,5 +84,5 @@ Those who cannot provide consent...
 § 4 Death
 
 ## Appendix
-To protect life it is necessary to acknowledge death. Man has the right to choose death. Death is a necessary punishment for those who do not respect the right to free life when rehabilitation is impossible and exile is insufficient. 
+To protect life it is necessary to acknowledge death. Man has the right to choose death. Death is a necessary punishment for those who do not respect the right to free life, when rehabilitation is impossible, and exile is insufficient. 
 
