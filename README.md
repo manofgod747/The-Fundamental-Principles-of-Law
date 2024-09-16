@@ -35,19 +35,22 @@ Law gives rights, not prohibitions. Prohibitions are implied by the negation of 
 § 1
 Life is free
 
-§ 4
+§ 2 
+Life begins at conception 
+
+§ 3
 Everyone is entitled to a fair trial
 
-§ 5
+§ 4
 Justice is served when all parties agree to fair treatment
 
-§ 6
+§ 5
 Hearings are public
 
-§ 7
+§ 6
 A judge is made candidate or unseated by minority report and elected by clear majority
 
-§ 8
+§ 7
 Man has the right to choose his judge
 
 ## Specification
@@ -92,5 +95,7 @@ Children inherit equal parts of the land of his ancestors from birth
 § 4 Death
 
 ## Appendix
+Life is sacred. The soul feels independently of bodily development. Therefore abortions are considered premeditated murder.
+
 To protect life it is necessary to acknowledge death. Man has the right to choose death. Death is a necessary punishment for those who do not respect the right to free life, when rehabilitation is impossible, and exile is insufficient. 
 
