@@ -2,6 +2,9 @@
 # The Fundamental Principles of Law
 This document serves as a candidate to national law that upholds the principles of justice, freedom, equality, minimality, consent and positive dualism.
 
+## Glossary
+**Man** is hereby defined as all living human beings. Man, woman, or child.
+
 ## Principles of Law
 1. Justice
 3. Freedom
@@ -24,8 +27,6 @@ Consent is essential to rule of law. Without consent comes arbitrary rule. Non c
 
 ### Positive Dualism
 Law gives rights, not prohibitions. Prohibitions are implied by the negation of rights. 
-
-**Man** is hereby defined as all living human beings. Man, woman, or child.
 
 ## Constitution
 § 1
