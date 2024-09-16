@@ -50,7 +50,7 @@ Man has the right to choose his judge
 ## Crime
 § 1 Trespassing on others freedom by means of coercion.
 
-§ 2 Crimes of passion. To perform physical or psychological violence on another because out of emotional rage in face of jealously or percieved infidelity
+§ 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
 
 ## Punishment
 § 1 Indemnity
