@@ -16,11 +16,11 @@ This document serves as a candidate to national law that upholds the principles 
 ### Justice - The objective of Law
 Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
 
-### Equality
-Everyone is equal under the rule of law. Law does not define special groups or interests. 
-
 ### Freedom - Is a given
 Man has the right to live free from coercion.
+
+### Equality
+Everyone is equal under the rule of law. Law does not define special groups or interests. 
 
 ### Minimality
 Text lends to infinite interpretation, therefore law must be minimal to avoid misunderstandings.
