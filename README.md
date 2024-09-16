@@ -58,7 +58,7 @@ Intoxication is allowed in prescense of consentual adults
 Access to information must be equal between cooperating and conflicting parties
 
 § 3
-Man has the sole right to his propoerty, the land on which he lives and the fruits of his labor
+Man has the sole right to his property, the land on which he lives and the fruits of his labor
 
 § 4
 Man has the right to choose his family
@@ -71,6 +71,9 @@ Those who cannot provide consent...
 
 § 7
 Man has the right to bear arms in proportion to percieved threats
+
+§ 8
+Children inherit equal parts of the land of his ancestors from birth
 
 ## Crime
 § 1 Trespassing on others freedom by means of coercion
