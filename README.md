@@ -76,7 +76,7 @@ Those who cannot provide consent...
 Man has the right to bear arms in proportion to percieved threats
 
 § 8
-Children inherit equal parts of the land of his ancestors from birth
+Man inherits equal parts of the land of his ancestors from birth
 
 ## Crime
 § 1 Trespassing on others freedom by means of coercion
