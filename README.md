@@ -26,7 +26,7 @@ Everyone is equal under the rule of law. Law does not define special groups or i
 Text lends to infinite interpretation, therefore law must be minimal to avoid misunderstandings.
 
 ### Consent
-Consent is essential to rule of law. Without consent comes arbitrary rule. Non consenting parties are slaves to those who rule without it. 
+Consent is essential to rule of law. Without consent comes arbitrary rule. Non consenting parties are slaves to those who rule without it. Consent requires understanding. Understanding requires simplicity.
 
 ### Positive Dualism
 Law gives rights, not prohibitions. Prohibitions are implied by the negation of rights. 
@@ -36,7 +36,7 @@ Law gives rights, not prohibitions. Prohibitions are implied by the negation of 
 Life is free
 
 § 2 
-Life begins at conception, when the sperm and egg join together.
+Life begins at conception
 
 § 3
 Everyone is entitled to a fair trial
@@ -55,7 +55,7 @@ Man has the right to choose his judge
 
 ## Specification
 § 1
-Intoxication is allowed in prescense of consentual adults
+Intoxication is allowed in prescense of consenting adults
 
 § 2
 Access to information must be equal between cooperating and conflicting parties
@@ -95,7 +95,7 @@ Man inherits equal parts of the land of his ancestors from birth
 § 4 Death
 
 ## Appendix
-Life is sacred. The soul lives and feels independent of bodily development. Therefore abortions are considered premeditated murder.
+Life is sacred. The soul lives and feels independent of bodily development. Therefore abortion is considered premeditated murder.
 
 To protect life it is necessary to acknowledge death. 
 * Man has the right to choose death.
