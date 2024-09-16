@@ -47,20 +47,6 @@ A judge is made candidate or unseated by minority report and elected by clear ma
 § 8
 Man has the right to choose his judge
 
-## Crime
-§ 1 Trespassing on others freedom by means of coercion.
-
-§ 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
-
-## Punishment
-§ 1 Indemnity
-
-§ 2 Isolation and rehabilitation
-
-§ 3 Exile
-
-§ 4 Death
-
 ## Specification
 § 1
 Intoxication is allowed in prescense of consentual adults
@@ -80,4 +66,17 @@ Animals are afforded the same rights as men
 § 6
 Those who cannot provide consent...
 
+## Crime
+§ 1 Trespassing on others freedom by means of coercion.
+
+§ 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
+
+## Punishment
+§ 1 Indemnity
+
+§ 2 Isolation and rehabilitation
+
+§ 3 Exile
+
+§ 4 Death
 
