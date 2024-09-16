@@ -10,22 +10,22 @@ This document serves as a candidate to national law that upholds the principles 
 7. Consent
 8. Positive Dualism
 
-**Justice** is the objective of Law
+### Justice - The objective of Law
 Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
 
-**Freedom** is a given
+### Freedom - Is a given
 Man has the right to live free from coercion.
 
-**Minimality**
+### Minimality
 Text lends to infinite interpretation, therefore law must be minimal to avoid misunderstandings.
 
-**Consent**
+### Consent
 Consent is essential to rule of law. Without consent comes arbitrary rule. Non consenting parties are slaves to those who rule without it. 
 
-**Positive Dualism**
+### Positive Dualism
 Law gives rights, not prohibitions. Prohibitions are implied by the negation of rights. 
 
-*Man* is hereby defined as all living human beings. Man, woman, or child.
+**Man** is hereby defined as all living human beings. Man, woman, or child.
 
 ## Constitution
 § 1
