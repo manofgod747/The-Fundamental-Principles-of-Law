@@ -69,6 +69,9 @@ Animals are afforded the same rights as men
 § 6
 Those who cannot provide consent...
 
+§ 7
+Man has the right to bear arms in proportion to percieved threats
+
 ## Crime
 § 1 Trespassing on others freedom by means of coercion
 
