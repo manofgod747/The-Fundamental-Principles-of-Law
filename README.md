@@ -3,10 +3,9 @@
 This document serves as a candidate to national law that upholds the principles of justice, freedom, equality, minimality, consent and positive dualism.
 
 ## Glossary
-**Man** is hereby defined as all living human beings. Man, woman, or child.
+**Man** - All living human beings. Man, woman, or child.
 
-**Conception**
-When the sperm and egg join together.
+**Conception** - When the sperm and egg join together.
 
 ## Principles of Law
 1. Justice
