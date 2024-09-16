@@ -74,6 +74,8 @@ Those who cannot provide consent...
 
 § 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
 
+§ 3 False testimony
+
 ## Punishment
 § 1 Indemnity
 
