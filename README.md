@@ -53,8 +53,11 @@ Man has the right to choose his judge
 
 ## Punishment
 § 1 Indemnity
+
 § 2 Isolation and rehabilitation
+
 § 3 Exile
+
 § 4 Death
 
 ## Specification
