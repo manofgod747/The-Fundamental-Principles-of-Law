@@ -55,25 +55,25 @@ Man has the right to choose his judge
 
 ## Specification
 § 1
-Intoxication is allowed in prescense of consenting adults
-
-§ 2
-Access to information must be equal between cooperating and conflicting parties
-
-§ 3
 Man has the sole right to his property, the land on which he lives and the fruits of his labor
 
+§ 2
+Man has the right to bear arms in proportion to percieved threats
+
+§ 3
+Man (children) has the right to choose his family
+
 § 4
-Man has the right to choose his family
+Intoxication is allowed in prescense of consenting adults
 
 § 5
-Animals are afforded the same rights as men
+Access to information must be equal between cooperating and conflicting parties
 
 § 6
-Those who cannot provide consent...
+Animals are afforded the same rights as men
 
 § 7
-Man has the right to bear arms in proportion to percieved threats
+Those who cannot provide consent...
 
 § 8
 Man inherits equal parts of the land of his ancestors from birth
@@ -95,8 +95,18 @@ Man inherits equal parts of the land of his ancestors from birth
 § 4 Death
 
 ## Appendix
+### Life Begins at Conception
 Life is sacred. The soul lives and feels independent of bodily development. Therefore abortion is considered premeditated murder.
 
+### Equal Access to Information
+Individuals in cooperation have the right to equal information access. If not, moral judgement is impossible and the individuals who lack information may unknowingly aid in criminal activity. 
+
+Individuals in conflict need equal access to information or the party with less information lacks the means to investigate wrong doing.
+
+Equal information access incentivises good leadership.
+
+
+### Death
 To protect life it is necessary to acknowledge death. 
 * Man has the right to choose death.
 * Death is a necessary punishment for those who do not respect the right to free life, when rehabilitation is impossible, and exile is insufficient. 
