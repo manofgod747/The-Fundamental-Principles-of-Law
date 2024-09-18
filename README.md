@@ -5,7 +5,7 @@ This document serves as a candidate to national law that upholds the principles 
 ## Glossary
 **Man** - All living human beings. Man, woman, or child.
 
-## Principles of Law
+## The Principles of Law
 1. Justice & Reason
 2. Independece
 3. Freedom
@@ -35,7 +35,8 @@ Consent is essential to rule of law. Without consent comes arbitrary rule. Non c
 ### Positive Dualism
 Law gives rights, not prohibitions. Prohibitions are implied by the negation of rights. 
 
-## Constitution
+## The Law
+### Constitution
 § 1
 Life is free
 
@@ -57,7 +58,7 @@ A judge is made candidate or unseated by minority report and elected by clear ma
 § 7
 Man has the right to choose his judge
 
-## Specification
+### Specification
 § 1
 Man has the sole right to his property, the land on which he lives and the fruits of his labor
 
@@ -82,14 +83,14 @@ Those who cannot provide consent...
 § 8
 Man inherits equal parts of the land of his ancestors from birth
 
-## Crime
+### Crime
 § 1 Trespassing on others freedom by means of coercion
 
 § 2 Crimes of passion. To perform physical or psychological violence on another out of emotional rage in face of jealously or percieved infidelity
 
 § 3 False testimony
 
-## Punishment
+### Punishment
 § 1 Indemnity
 
 § 2 Isolation and rehabilitation
