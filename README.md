@@ -103,6 +103,9 @@ Man inherits equal parts of the land of his ancestors from birth
 ### Justice and Reason
 Without justice and reason as the foundational principle of the legal system, all legal proceeding have arbitrary outcomes. Justice means that the parties of a trial agree that the verdict is fair and impartial. Fairness and impartialness can only be achieved if the reason for a verdict is based on sound moral and logical grounds. 
 
+### Minimality
+A law that is to long to read and understand is not law. The nature of language is that all text lends to infinite interpretation. How a law is interpreted is based on the whim of the interpreter. The law must state the most general case so that all parties can reason and raise arguments for their case. 
+
 ### Life Begins at Conception
 Life is sacred. The soul lives and feels independent of bodily development. Therefore abortion is considered premeditated murder.
 
