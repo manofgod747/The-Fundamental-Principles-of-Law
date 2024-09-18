@@ -6,7 +6,8 @@ This document serves as a candidate to national law that upholds the principles 
 **Man** - All living human beings. Man, woman, or child.
 
 ## Principles of Law
-1. Justice
+1. Justice & Reason
+2. Independece
 3. Freedom
 4. Equality
 6. Minimality
@@ -15,6 +16,9 @@ This document serves as a candidate to national law that upholds the principles 
 
 ### Justice - The objective of Law
 Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
+
+### Independence
+The independence of the legal system is crucial. Any reasonable legal system is independent of all other system. Be it the state or something else. This means that the parties–judge, jury, and executioner–are elected in democratic processes in opposition to being seated by the political class. To ensure an independent legal system, all legal officials must be elected by the people. Be it judge, jury, or executioner (police).
 
 ### Freedom - Is a given
 Man has the right to live free from coercion.
@@ -95,6 +99,10 @@ Man inherits equal parts of the land of his ancestors from birth
 § 4 Death
 
 ## Appendix
+
+### Justice and Reason
+Without justice and reason as the foundational principle of the legal system, all legal proceeding have arbitrary outcomes. Justice means that the parties of a trial agree that the verdict is fair and impartial. Fairness and impartialness can only be achieved if the reason for a verdict is based on sound moral and logical grounds. 
+
 ### Life Begins at Conception
 Life is sacred. The soul lives and feels independent of bodily development. Therefore abortion is considered premeditated murder.
 
@@ -105,6 +113,9 @@ Individuals in conflict need equal access to information or the party with less 
 
 Equal information access incentivises good leadership.
 
+
+### The Right too Choose Judge
+In order to have safe and trustworthy legal proceedings, each man must have the right to choose his judge from the pool of available candidates. The parties of a legal proceeding can only trust the verdict if they have a chance to themselfes judge the moral character of the appointed judge. When judges are appointed arbitrarily, the parties are forced to trust–or rather mistrust–the legal process, and the results of a proceeding are as arbitrary as the legal system itself. 
 
 ### Death
 To protect life it is necessary to acknowledge death. 
