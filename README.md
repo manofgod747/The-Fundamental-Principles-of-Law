@@ -20,7 +20,7 @@ Justice is the fundamental principle to which all rulings must conform. Justice 
 Man has the right to live free from coercion.
 
 ### Equality
-Everyone is equal under the rule of law. Law does not define special groups or interests. 
+Everyone is equal in face of the law. Law does not define special groups or interests. 
 
 ### Minimality
 Text lends to infinite interpretation, therefore law must be minimal to avoid misunderstandings.
