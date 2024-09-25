@@ -1,12 +1,12 @@
 ### Sason
 # The Fundamental Principles of Law
-This document serves as a candidate to national law that upholds the principles of justice, freedom, equality, minimality, consent and positive dualism.
+This document serves as a candidate to national law that upholds the principles of justice, independence, freedom, equality, minimality, consent and positive dualism.
 
 ## Glossary
 **Man** - All living human beings. Man, woman, or child.
 
 ## The Principles of Law
-1. Justice & Reason
+1. Justice
 2. Independece
 3. Freedom
 4. Equality
@@ -18,7 +18,7 @@ This document serves as a candidate to national law that upholds the principles 
 Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
 
 ### Independence
-The independence of the legal system is crucial. Any reasonable legal system is independent of all other system. Be it the state or something else. This means that the parties–judge, jury, and executioner–are elected in democratic processes in opposition to being seated by the political class. To ensure an independent legal system, all legal officials must be elected by the people. Be it judge, jury, or executioner (police).
+The independence of the legal system is crucial. Any reasonable legal system is independent of all other system. Be it the state or something else. This means that the parties–judge, jury, and executioner–are elected in democratic processes in opposition to being seated by the political class. To ensure an independent legal system, all legal officials must be elected by the people.
 
 ### Freedom - Is a given
 Man has the right to live free from coercion.
