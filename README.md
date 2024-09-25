@@ -15,7 +15,7 @@ This document serves as a candidate to national law that upholds the principles 
 8. Positive Dualism
 
 ### Justice - The objective of Law
-Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties.
+Justice is the fundamental principle to which all rulings must conform. Justice is the absolute axiom. Justice is hereby defined as the equal, impartial and reasonable treatment of parties. Equal means parties are treated the same under the law. This implies law cannot define special groups. Impartial means judges do not have a stake in the outcome of a trial. Reasonable means that verdicts are based on logically sound arguments. The judge must present the logic of the verdict or the verdict is arbitrary. A verdict cannot be based on logical fallacies like appeal to authority or opinions of a majority.
 
 ### Independence
 The independence of the legal system is crucial. Any reasonable legal system is independent of all other system. Be it the state or something else. This means that the parties–judge, jury, and executioner–are elected in democratic processes in opposition to being seated by the political class. To ensure an independent legal system, all legal officials must be elected by the people.
@@ -116,7 +116,6 @@ Individuals in cooperation have the right to equal information access. If not, m
 Individuals in conflict need equal access to information or the party with less information lacks the means to investigate wrong doing.
 
 Equal information access incentivises good leadership.
-
 
 ### The Right too Choose Judge
 In order to have safe and trustworthy legal proceedings, each man must have the right to choose his judge from the pool of available candidates. The parties of a legal proceeding can only trust the verdict if they have a chance to themselfes judge the moral character of the appointed judge. When judges are appointed arbitrarily, the parties are forced to trust–or rather mistrust–the legal process, and the results of a proceeding are as arbitrary as the legal system itself. 
