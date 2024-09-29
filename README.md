@@ -118,7 +118,7 @@ Individuals in conflict need equal access to information or the party with less 
 Equal information access incentivises good leadership.
 
 ### The Right too Choose Judge
-In order to have safe and trustworthy legal proceedings, each man must have the right to choose his judge from the pool of available candidates. The parties of a legal proceeding can only trust the verdict if they have a chance to themselfes judge the moral character of the appointed judge. When judges are appointed arbitrarily, the parties are forced to trust–or rather mistrust–the legal process, and the results of a proceeding are as arbitrary as the legal system itself. 
+In order to have safe and trustworthy legal proceedings, each man must have the right to choose his judge from the pool of available candidates. The parties of a legal proceeding can only trust the verdict if they have a chance to themselfes judge the moral character of the appointed judge. When judges are appointed arbitrarily, the parties are forced to mistrust the legal process, and the results of a proceeding are as arbitrary as the legal system itself. 
 
 ### Death
 To protect life it is necessary to acknowledge death. 
